@@ -1,0 +1,9 @@
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/CMakeFiles/PACKAGE.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/CMakeFiles/RUN_TESTS.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/CMakeFiles/INSTALL.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/runtime/CMakeFiles/antlr4_shared.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/runtime/CMakeFiles/PACKAGE.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/runtime/CMakeFiles/RUN_TESTS.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/runtime/CMakeFiles/INSTALL.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Lab-Proga\grammar_lab\antlr4-cpp-runtime-4.13.0-source\build_new\CMakeFiles\a1b3af344d3c75b07bce47c455cd8572\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C3099D8C-8307-37E5-A37D-98FE8D7CE88C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
