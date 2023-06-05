@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\LAB-PROGA\GRAMMAR_LAB\ANTLR4-CPP-RUNTIME-4.13.0-SOURCE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source -BC:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new --check-stamp-file C:/Users/Asus/Lab-Proga/grammar_lab/antlr4-cpp-runtime-4.13.0-source/build_new/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
